@@ -1,4 +1,4 @@
-package vn.jasper.tripadvisor;
+package vn.jasper.trip_advisor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
